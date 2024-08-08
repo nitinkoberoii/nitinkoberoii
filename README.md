@@ -21,7 +21,7 @@ I'm a third-year Bachelor of Technology student at the International Institute o
 - **Tools**: Git/GitHub, Android Studio, VS Code, Visual Studio, PyCharm
 
 ## Featured Projects
-### [DiscussIt]([https://github.com/nitinkoberoii/DiscussIt])
+### [DiscussIt](https://github.com/nitinkoberoii/DiscussIt)
 DiscussIt is a responsive reddit clone built on my journey to learn full stack App-Development using Flutter and Firebase.
 
 ### [Zoom Clone](https://github.com/yourusername/zoom-clone)
