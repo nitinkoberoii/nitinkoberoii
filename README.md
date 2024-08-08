@@ -33,6 +33,12 @@ Zoom-Clone is a clone built on my journey to learn full stack App-Development us
 - [Email](nitinkoberoii@gmail.com)
 - [Instagram](https://www.instagram.com/nitinkoberoii/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitinkoberoii)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nitinkoberoii@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nitinkoberoii/)
+
+
 <!---
 nitinkoberoii/nitinkoberoii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
