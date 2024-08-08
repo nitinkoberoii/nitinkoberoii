@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @nitinkoberoii
+# Hi there, I'm Nitin Kumar Oberoi 👋
+### Aspiring Software Developer | Flutter Enthusiast | App Developer
+
+## GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinkoberoii&show_icons=true&theme=radical)
+
+
 - 👀 I’m interested in ...Python, C++, AI/ML and open source programs 
 - 🌱 I’m currently pursuing ...BTech from Indian Institute of Information Technology, Vadodara-ICD 
 - 💞️ I’m looking to collaborate on ...Open Source Projects
