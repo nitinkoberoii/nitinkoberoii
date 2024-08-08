@@ -1,8 +1,7 @@
 # Hi there, I'm Nitin Kumar Oberoi 👋
 ### Aspiring Software Developer | Flutter Enthusiast | App Developer
 
-## GitHub Stats
-
+## 📊 GitHub Stats
 <!-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinkoberoii&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkoberoii&layout=compact&theme=radical)
@@ -11,10 +10,10 @@
 
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nitinkoberoii&theme=radical) -->
 
-## <h2><img src="https://img.icons8.com/color/48/000000/about-me.png" width="30"/> About Me</h2>
+## 📖 About Me
 I'm a third-year Bachelor of Technology student at the Indian Institute of Information Technology, Vadodara - International Campus, Diu. I'm passionate about building impactful software and exploring the world of Flutter. Besides coding, I enjoy organizing events and being part of the cultural committee at my college.
 
-## Tech Stack & Skills
+## 🛠 Tech Stack & Skills
 - **Languages**: Dart, C, C++, Python
 - **Frameworks**: Flutter, Flask
 - **Database**: Firebase, MongoDB
@@ -27,7 +26,7 @@ DiscussIt is a responsive reddit clone built on my journey to learn full stack A
 ### [Zoom Clone](https://github.com/nitinkoberoii/Zoom-Clone)
 Zoom-Clone is a clone built on my journey to learn full stack App-Development using Flutter and Firebase. -->
 
-## Links
+## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitinkoberoii)
