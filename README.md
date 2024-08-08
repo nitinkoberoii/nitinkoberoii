@@ -16,7 +16,7 @@ I'm a third-year Bachelor of Technology student at the Indian Institute of Infor
 ## 🛠 Tech Stack & Skills
 - **Languages**: Dart, C, C++, Python
 - **Frameworks**: Flutter, Flask
-- **Database**: Firebase, MongoDB
+- **Database**: Firebase, MongoDB, MySQL
 - **Tools**: Git/GitHub, Android Studio, VS Code, Visual Studio, PyCharm
 
 <!-- ## Featured Projects
