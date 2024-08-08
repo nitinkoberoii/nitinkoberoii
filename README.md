@@ -11,8 +11,8 @@
 
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nitinkoberoii&theme=radical) -->
 
-
-
+## About Me
+I'm a third-year Bachelor of Technology student at the International Institute of Information Technology, Vadodara - International Campus, Diu. I'm passionate about building impactful software and exploring the world of Flutter. Besides coding, I enjoy organizing drama events and being part of the cultural committee at my college.
 
 
 - 👀 I’m interested in ...Python, C++, AI/ML and open source programs 
