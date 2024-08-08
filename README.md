@@ -4,6 +4,8 @@
 ## GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinkoberoii&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkoberoii&layout=compact&theme=radical)
+
 
 
 - 👀 I’m interested in ...Python, C++, AI/ML and open source programs 
