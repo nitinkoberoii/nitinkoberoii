@@ -31,6 +31,7 @@ Zoom-Clone is a clone built on my journey to learn full stack App-Development us
 - [LinkedIn](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/)
 - [Twitter](https://twitter.com/nitinkoberoii)
 - [Email](nitinkoberoii@gmail.com)
+- [Instagram](https://www.instagram.com/nitinkoberoii/)
 
 <!---
 nitinkoberoii/nitinkoberoii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
