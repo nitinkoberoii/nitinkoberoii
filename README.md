@@ -24,14 +24,13 @@ I'm a third-year Bachelor of Technology student at the International Institute o
 ### [DiscussIt](https://github.com/nitinkoberoii/DiscussIt)
 DiscussIt is a responsive reddit clone built on my journey to learn full stack App-Development using Flutter and Firebase.
 
-### [Zoom Clone](https://github.com/yourusername/zoom-clone)
-A video conferencing app built using Flutter and Firebase, featuring real-time video functionality using the Jitsi Meet package.
+### [Zoom Clone](https://github.com/nitinkoberoii/Zoom-Clone)
+Zoom-Clone is a clone built on my journey to learn full stack App-Development using Flutter and Firebase.
 
-
-- 👀 I’m interested in ...Python, C++, AI/ML and open source programs 
-- 🌱 I’m currently pursuing ...BTech from Indian Institute of Information Technology, Vadodara-ICD 
-- 💞️ I’m looking to collaborate on ...Open Source Projects
-- 📫 How to reach me ...
+## Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/))
+- [Twitter](https://twitter.com/yourprofile)
+- [Email](mailto:yourname@email.com)
 
 <!---
 nitinkoberoii/nitinkoberoii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
