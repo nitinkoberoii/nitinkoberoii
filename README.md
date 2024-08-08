@@ -3,9 +3,13 @@
 
 ## GitHub Stats
 
+<!-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinkoberoii&show_icons=true&theme=radical) -->
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkoberoii&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitinkoberoii&theme=radical)
+
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nitinkoberoii&theme=radical) -->
 
 
 
