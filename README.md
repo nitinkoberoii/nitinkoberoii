@@ -13,6 +13,7 @@
 
 ## About Me
 I'm a third-year Bachelor of Technology student at the Indian Institute of Information Technology, Vadodara - International Campus, Diu. I'm passionate about building impactful software and exploring the world of Flutter. Besides coding, I enjoy organizing events and being part of the cultural committee at my college.
+![About Me](https://img.shields.io/badge/-About%20Me-blue?style=for-the-badge&logo=font-awesome&logoColor=white)
 
 ## Tech Stack & Skills
 - **Languages**: Dart, C, C++, Python
