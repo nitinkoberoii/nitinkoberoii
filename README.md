@@ -27,10 +27,7 @@ DiscussIt is a responsive reddit clone built on my journey to learn full stack A
 ### [Zoom Clone](https://github.com/nitinkoberoii/Zoom-Clone)
 Zoom-Clone is a clone built on my journey to learn full stack App-Development using Flutter and Firebase. -->
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/)
-- [Twitter](https://twitter.com/nitinkoberoii)
-- [Instagram](https://www.instagram.com/nitinkoberoii/)
+## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitinkoberoii)
