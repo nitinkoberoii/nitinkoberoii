@@ -20,12 +20,12 @@ I'm a third-year Bachelor of Technology student at the International Institute o
 - **Database**: Firebase, MongoDB
 - **Tools**: Git/GitHub, Android Studio, VS Code, Visual Studio, PyCharm
 
-## Featured Projects
+<!-- ## Featured Projects
 ### [DiscussIt](https://github.com/nitinkoberoii/DiscussIt)
 DiscussIt is a responsive reddit clone built on my journey to learn full stack App-Development using Flutter and Firebase.
 
 ### [Zoom Clone](https://github.com/nitinkoberoii/Zoom-Clone)
-Zoom-Clone is a clone built on my journey to learn full stack App-Development using Flutter and Firebase.
+Zoom-Clone is a clone built on my journey to learn full stack App-Development using Flutter and Firebase. -->
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/)
