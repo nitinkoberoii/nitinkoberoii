@@ -28,7 +28,7 @@ DiscussIt is a responsive reddit clone built on my journey to learn full stack A
 Zoom-Clone is a clone built on my journey to learn full stack App-Development using Flutter and Firebase.
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/))
+- [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nitin-kumar-oberoi-169136261/)
 - [Twitter](https://twitter.com/yourprofile)
 - [Email](mailto:yourname@email.com)
 
