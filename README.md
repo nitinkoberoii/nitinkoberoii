@@ -7,6 +7,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkoberoii&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitinkoberoii&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nitinkoberoii&theme=radical)
+
+
+
 
 
 - 👀 I’m interested in ...Python, C++, AI/ML and open source programs 
