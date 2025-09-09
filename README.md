@@ -21,12 +21,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitgautam2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ankitgautam2003&theme=dark&hide_border=false" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinkoberoii&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nitinkoberoii&theme=dark&hide_border=false" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgautam2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkoberoii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em"/>
 </p>
 
 # 💻 Tech Stack
@@ -84,13 +84,13 @@
 <div align="center">
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitgautam2003&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkoberoii&theme=tokyo-night" alt="Contribution Graph" />
 
 </div>
 
 <div align="center">
   <!-- Typing SVG Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&duration=2000&lines=Fullstack+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&duration=2000&lines=Fullstack+Developer;Open-Source+Enthusiast;Flutter+Developer;Backend+Developer" alt="Typing SVG" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=ankitgautam2003&icon=0&color=0)](https://visitcount.itsvg.in)
