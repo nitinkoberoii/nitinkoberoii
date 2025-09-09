@@ -6,17 +6,17 @@
 
 - 🔭 I’m currently a student in IIIT-Vadodra
 - 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on projects related to web development
+- 👯 I’m looking to collaborate on projects related to software development
 - 🤔 I’m looking for help with new projects and tech stacks
-- 📫 How to reach me: ankitgautam6835@gmail.com
+- 📫 How to reach me: nitinkoberoii@gmail.com
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankit_gautam_03/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-gautam-85a807259/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/ankit_gautam_03/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankit_gautam_03)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitgautam6835@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nitinkoberoii/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinkoberoii/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/u/BreathAgitated7285/s/Vhw0EYaT31)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nitinkoberoii)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinkoberoii@gmail.com)
 
 # 📊 GitHub Stats:
 
