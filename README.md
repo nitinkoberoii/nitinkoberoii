@@ -1,6 +1,6 @@
 <div align="center">
   <a class="link" href="header.svg">
-    <img class="image" src="header.svg" alt="Header with Nitin..." />
+    <img class="image" src="header.svg" alt="Header with Ankit..." />
   </a>
 </div>
 
